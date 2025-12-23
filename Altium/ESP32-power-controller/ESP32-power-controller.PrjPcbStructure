@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=MCU.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=MCU.SchDoc|FileName=Power_input.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=MCU.SchDoc|FileName=Relays.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=MCU.SchDoc|FileName=SMPS_3V3.SchDoc|SheetNumber=3
