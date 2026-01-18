@@ -22,5 +22,8 @@ ESP32 power controller with 6 relays and 6 GPIO
    - DM72-100-14-100Z(H) enclosure need 2mm PCB on both sides which are insertet in sides of enclosure
    - **Required change:** Add 2mm on both sides of PCB
    
+4. **Error in ESP32 connection**
+   - !!! warning: gpio 34, 35, 36 and 39 are input only pins. These pins do NOT have internal pull-up or pull-down resistors.
+   - Rerouting relays and GPIO pins
 
 ### Rev. 1
